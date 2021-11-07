@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+#title {
+    border: solid black 5px;
+    padding: 7px;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: lightblue;
+    border-style: ridge;
+    border-color: goldenrod;
+}
